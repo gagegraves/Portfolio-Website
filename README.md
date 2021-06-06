@@ -1,2 +1,2 @@
 # Portfolio-Website
- a webiste i made for my Thinkful course
+ a website i made for my Thinkful course
